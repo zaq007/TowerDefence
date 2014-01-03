@@ -1,0 +1,36 @@
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\obj\x86\Debug\Tower Defence.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Background.xnb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Tower Defence.exe
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Tower Defence.pdb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Menu.exe
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Menu.pdb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\obj\x86\Debug\Tower Defence.exe
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\obj\x86\Debug\Tower Defence.pdb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Exit.xnb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\New Game.xnb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Core.exe
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Core.pdb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Finish.xnb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\None.xnb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Road.xnb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Start.xnb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Monster.xnb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Bullet.xnb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Tower.xnb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Gold_Font.xnb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Descr_Font.xnb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Cross.xnb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\ShopItemBorder.xnb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Circle.xnb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Sell.xnb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Upgrade.xnb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Bee.xnb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Bug.xnb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Fly.xnb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Spider.xnb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Ladybug.xnb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\Cursor.xnb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\BigTower.xnb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\MediumTower.xnb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Tower Defence\Tower Defence\bin\x86\Debug\Content\SmallTower.xnb

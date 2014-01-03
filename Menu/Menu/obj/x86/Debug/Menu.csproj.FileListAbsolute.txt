@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Menu\Menu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Menu\Menu\bin\x86\Debug\Content\Background.xnb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Menu\Menu\bin\x86\Debug\Menu.exe
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Menu\Menu\bin\x86\Debug\Menu.pdb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Menu\Menu\obj\x86\Debug\Menu.exe
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Menu\Menu\obj\x86\Debug\Menu.pdb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Menu\Menu\bin\x86\Debug\Content\Exit.xnb
+c:\users\user\documents\visual studio 2010\Projects\Tower Defence\Menu\Menu\bin\x86\Debug\Content\New Game.xnb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Menu\Menu\obj\x86\Debug\Menu.csprojResolveAssemblyReference.cache

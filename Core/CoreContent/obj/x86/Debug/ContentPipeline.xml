@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Finish.png</Source>
+      <Name>Finish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Finish.xnb</Output>
+      <Time>2013-04-27T18:04:31.5096071+03:00</Time>
+    </Item>
+    <Item>
+      <Source>None.png</Source>
+      <Name>None</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\None.xnb</Output>
+      <Time>2013-04-27T18:03:39.4286282+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Road.png</Source>
+      <Name>Road</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Road.xnb</Output>
+      <Time>2013-04-27T18:04:07.3122231+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Start.png</Source>
+      <Name>Start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Start.xnb</Output>
+      <Time>2013-04-27T18:04:23.7921657+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Monster.png</Source>
+      <Name>Monster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Monster.xnb</Output>
+      <Time>2013-04-27T18:55:25.8673063+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet.png</Source>
+      <Name>Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Bullet.xnb</Output>
+      <Time>2013-04-27T22:57:41.5977026+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Tower.png</Source>
+      <Name>Tower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Tower.xnb</Output>
+      <Time>2013-04-27T23:03:16.2378429+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cross.png</Source>
+      <Name>Cross</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Cross.xnb</Output>
+      <Time>2013-04-30T13:16:04.8163399+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ShopItemBorder.png</Source>
+      <Name>ShopItemBorder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\ShopItemBorder.xnb</Output>
+      <Time>2013-04-30T13:15:06.0469785+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Circle.png</Source>
+      <Name>Circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Circle.xnb</Output>
+      <Time>2013-05-02T08:19:53.813593+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sell.png</Source>
+      <Name>Sell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Sell.xnb</Output>
+      <Time>2013-05-13T18:50:20.533375+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Upgrade.png</Source>
+      <Name>Upgrade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Upgrade.xnb</Output>
+      <Time>2013-05-13T18:45:12.3637487+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Bee.png</Source>
+      <Name>Bee</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Bee.xnb</Output>
+      <Time>2013-05-12T12:53:24.6616599+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Bug.png</Source>
+      <Name>Bug</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Bug.xnb</Output>
+      <Time>2013-05-12T20:10:36.1360144+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fly.png</Source>
+      <Name>Fly</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Fly.xnb</Output>
+      <Time>2013-05-12T20:12:49.2476279+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Spider.png</Source>
+      <Name>Spider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Spider.xnb</Output>
+      <Time>2013-05-12T20:35:12.9694844+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Gold_Font.spritefont</Source>
+      <Name>Gold_Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Gold_Font.xnb</Output>
+      <Time>2013-04-29T18:19:48.1825651+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Descr_Font.spritefont</Source>
+      <Name>Descr_Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Descr_Font.xnb</Output>
+      <Time>2013-04-29T21:03:29.0442863+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Ladybug.png</Source>
+      <Name>Ladybug</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Ladybug.xnb</Output>
+      <Time>2013-05-12T22:28:19.4566493+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cursor.png</Source>
+      <Name>Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\Cursor.xnb</Output>
+      <Time>2013-05-13T19:23:24.5998571+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BigTower.png</Source>
+      <Name>BigTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\BigTower.xnb</Output>
+      <Time>2013-05-13T20:07:50.8083555+03:00</Time>
+    </Item>
+    <Item>
+      <Source>MediumTower.png</Source>
+      <Name>MediumTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\MediumTower.xnb</Output>
+      <Time>2013-05-13T20:00:46.7140987+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SmallTower.png</Source>
+      <Name>SmallTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\SmallTower.xnb</Output>
+      <Time>2013-05-13T19:58:05.4728762+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\CoreContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\CoreContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\User\Documents\Visual Studio 2010\Projects\Tower Defence\Core\Core\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-17T21:10:09.3249597+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

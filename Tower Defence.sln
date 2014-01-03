@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Defence", "Tower Defence\Tower Defence\Tower Defence.csproj", "{C96C0575-BCD5-4474-8F99-6ABFC4797FEE}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Tower DefenceContent", "Tower Defence\Tower DefenceContent\Tower DefenceContent.contentproj", "{8F028402-A104-4244-85C7-375CBF33C4F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu", "Menu\Menu\Menu.csproj", "{AF22F834-E39E-435B-9C71-4235BD0AC7E6}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MenuContent", "Menu\MenuContent\MenuContent.contentproj", "{2356C9A4-9802-406D-BAE0-708495D85D4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core\Core.csproj", "{45D8B6E8-4115-4D1D-886B-91F5C43290AE}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CoreContent", "Core\CoreContent\CoreContent.contentproj", "{0143449A-CC8E-4D1E-AE93-A9AD102E0FAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C96C0575-BCD5-4474-8F99-6ABFC4797FEE}.Debug|x86.ActiveCfg = Debug|x86
+		{C96C0575-BCD5-4474-8F99-6ABFC4797FEE}.Debug|x86.Build.0 = Debug|x86
+		{C96C0575-BCD5-4474-8F99-6ABFC4797FEE}.Release|x86.ActiveCfg = Release|x86
+		{C96C0575-BCD5-4474-8F99-6ABFC4797FEE}.Release|x86.Build.0 = Release|x86
+		{8F028402-A104-4244-85C7-375CBF33C4F8}.Debug|x86.ActiveCfg = Debug|x86
+		{8F028402-A104-4244-85C7-375CBF33C4F8}.Release|x86.ActiveCfg = Release|x86
+		{AF22F834-E39E-435B-9C71-4235BD0AC7E6}.Debug|x86.ActiveCfg = Debug|x86
+		{AF22F834-E39E-435B-9C71-4235BD0AC7E6}.Debug|x86.Build.0 = Debug|x86
+		{AF22F834-E39E-435B-9C71-4235BD0AC7E6}.Release|x86.ActiveCfg = Release|x86
+		{AF22F834-E39E-435B-9C71-4235BD0AC7E6}.Release|x86.Build.0 = Release|x86
+		{2356C9A4-9802-406D-BAE0-708495D85D4C}.Debug|x86.ActiveCfg = Debug|x86
+		{2356C9A4-9802-406D-BAE0-708495D85D4C}.Release|x86.ActiveCfg = Release|x86
+		{45D8B6E8-4115-4D1D-886B-91F5C43290AE}.Debug|x86.ActiveCfg = Debug|x86
+		{45D8B6E8-4115-4D1D-886B-91F5C43290AE}.Debug|x86.Build.0 = Debug|x86
+		{45D8B6E8-4115-4D1D-886B-91F5C43290AE}.Release|x86.ActiveCfg = Release|x86
+		{45D8B6E8-4115-4D1D-886B-91F5C43290AE}.Release|x86.Build.0 = Release|x86
+		{0143449A-CC8E-4D1E-AE93-A9AD102E0FAF}.Debug|x86.ActiveCfg = Debug|x86
+		{0143449A-CC8E-4D1E-AE93-A9AD102E0FAF}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
